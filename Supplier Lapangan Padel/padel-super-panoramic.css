@@ -122,8 +122,12 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 1011px;
+  }
+
   .u-section-1 .u-sheet-1 {
-    min-height: 700px;
+    min-height: 798px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -137,7 +141,7 @@
   .u-section-1 .u-image-1 {
     width: 340px;
     height: 219px;
-    margin-bottom: 29px;
+    margin-bottom: 59px;
   }
 } .u-section-2 {
   min-height: 510px;
