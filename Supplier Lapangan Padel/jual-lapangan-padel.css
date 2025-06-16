@@ -1839,6 +1839,7 @@
     margin-top: 2px;
     margin-bottom: 20px;
     min-height: 554px;
+    background-position: 50% 50%;
     height: auto;
   }
 }
@@ -1878,7 +1879,6 @@
     margin-top: 13px;
     margin-bottom: 59px;
     min-height: 524px;
-    background-position: 50% 50%;
   }
 }
 
