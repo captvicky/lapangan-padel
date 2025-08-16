@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://padelnesia.com/Home.html</loc>
-        <lastmod>2025-08-12T12:22:20+07:00</lastmod>
+        <lastmod>2025-08-16T12:09:29+07:00</lastmod>
     </url>
     <url>
         <loc>https://padelnesia.com/en/Home.html</loc>
-        <lastmod>2025-08-12T12:22:20+07:00</lastmod>
+        <lastmod>2025-08-16T12:09:29+07:00</lastmod>
     </url>
     <url>
         <loc>https://padelnesia.com/en/index.html</loc>
-        <lastmod>2025-08-12T12:22:20+07:00</lastmod>
+        <lastmod>2025-08-16T12:09:29+07:00</lastmod>
     </url>
     <url>
         <loc>https://padelnesia.com/index.html</loc>
-        <lastmod>2025-08-12T12:22:20+07:00</lastmod>
+        <lastmod>2025-08-16T12:09:29+07:00</lastmod>
     </url>
     <url>
         <loc>https://padelnesia.com/About-Unipadel.html</loc>
@@ -193,6 +193,14 @@
         <lastmod>2025-08-12T12:27:37+07:00</lastmod>
     </url>
     <url>
+        <loc>https://padelnesia.com/regulasi-lapangan-padel.html</loc>
+        <lastmod>2025-08-16T12:21:38+07:00</lastmod>
+    </url>
+    <url>
+        <loc>https://padelnesia.com/en/regulasi-lapangan-padel.html</loc>
+        <lastmod>2025-08-16T12:21:38+07:00</lastmod>
+    </url>
+    <url>
         <loc>https://padelnesia.com/blog/biaya-pembuatan-lapangan-padel.html</loc>
         <lastmod>2025-06-10T01:01:46+07:00</lastmod>
     </url>
@@ -242,6 +250,6 @@
     </url>
     <url>
         <loc>https://padelnesia.com/blog/blog.html</loc>
-        <lastmod>2025-08-12T12:48:15+07:00</lastmod>
+        <lastmod>2025-08-16T12:22:22+07:00</lastmod>
     </url>
 </urlset>
